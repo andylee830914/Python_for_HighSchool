@@ -1,7 +1,7 @@
 # 用高中數學學 Python
 使用 jupyter (iPython notebook) 作為教學
 ## 基本練習
-#### [105學測多選11（數據分析）](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Practice_105_SAT_11.ipynb)
+#### [105 學測多選 11（數據分析）](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Practice_105_SAT_11.ipynb)
 * list
 * function
 * for-loop
