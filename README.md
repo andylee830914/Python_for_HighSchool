@@ -21,6 +21,10 @@
 
 * Euclidean algorithm （輾轉相除法）
 
+## 數學建模
+#### [單擺運動](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Single_Pendulum_Animated.ipynb) <small>高中物理 4-4 動量與牛頓運動定律的應用</small>
+* Second Order ODE （二階常微分方程）use scipy.integrate
+
 ***
 ##### 以下為規劃中內容
 ### 非線性方程式求根
