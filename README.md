@@ -24,6 +24,12 @@
 
 * Euclidean algorithm （輾轉相除法）
 
+
+#### [非線性方程式求根-二分逼近法](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Practice_Bisection_B2App.ipynb) <small>高中數學第二冊附錄</small>
+>在二分逼近法中，學生應該學會迭代的思考方法，並可透過計算器實現此想法，初步認識極限逼近的歷程。（引用自99課程綱要）
+
+* Bisection Method （二分逼近法）
+
 ## 數學建模
 #### (* )[單擺運動](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Single_Pendulum_Animated.ipynb) <small>高中物理 4-4 動量與牛頓運動定律的應用</small>
 * Second Order ODE （二階常微分方程）use scipy.integrate
@@ -31,11 +37,6 @@
 
 ***
 ##### 以下為規劃中內容
-### 非線性方程式求根
-#### 二分逼近法 <small>高中數學第二冊附錄</small>
->在二分逼近法中，學生應該學會迭代的思考方法，並可透過計算器實現此想法，初步認識極限逼近的歷程。（引用自99課程綱要）
 
-* Bisection Method （二分逼近法）
-
-#### 牛頓法 <small>高中數學甲II 附錄</small>
+#### 非線性方程式求根-牛頓法 <small>高中數學甲 II 附錄</small>
 * Newton's Method （牛頓法）
