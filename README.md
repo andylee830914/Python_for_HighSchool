@@ -30,13 +30,14 @@
 
 * Bisection Method （二分逼近法）
 
+#### [非線性方程式求根-牛頓法](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Practice_Newton_B6App.ipynb) <small>高中數學甲 II 附錄</small>
+* Newton's Method （牛頓法）
+
 ## 數學建模
 #### (* )[單擺運動](https://github.com/andylee830914/Python_for_HighSchool/blob/master/Single_Pendulum_Animated.ipynb) <small>高中物理 4-4 動量與牛頓運動定律的應用</small>
 * Second Order ODE （二階常微分方程）use scipy.integrate
 
 
-***
+<!--***
 ##### 以下為規劃中內容
-
-#### 非線性方程式求根-牛頓法 <small>高中數學甲 II 附錄</small>
-* Newton's Method （牛頓法）
+-->
